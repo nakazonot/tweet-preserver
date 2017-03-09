@@ -1,0 +1,10 @@
+{
+  "name": "tweet-preserver",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Taichi Nakazono <nakazono_t@uuum.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap-material-design": "^0.5.10"
+  }
+}

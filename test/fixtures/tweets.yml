@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  query: MyString
+  'no':
+  retweet_count: 
+  text: MyString
+  user_no: 
+  user_name: MyString
+  user_screen_name: MyString
+  user_location: MyString
+  user_description: MyString
+  user_url: MyString
+  user_followers_count: 
+  user_friends_count: 
+  user_listed_count: 
+  user_protected: false
+  user_followers_count: 
+  user_friends_count: 
+  user_listed_count: 
+  user_created_at: MyString
+  user_favourites_count: 
+  user_statuses_count: 
+
+two:
+  query: MyString
+  'no':
+  retweet_count: 
+  text: MyString
+  user_no: 
+  user_name: MyString
+  user_screen_name: MyString
+  user_location: MyString
+  user_description: MyString
+  user_url: MyString
+  user_followers_count: 
+  user_friends_count: 
+  user_listed_count: 
+  user_protected: false
+  user_followers_count: 
+  user_friends_count: 
+  user_listed_count: 
+  user_created_at: MyString
+  user_favourites_count: 
+  user_statuses_count: 
